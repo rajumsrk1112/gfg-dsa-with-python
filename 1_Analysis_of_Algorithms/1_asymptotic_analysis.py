@@ -7,7 +7,7 @@ def fun2(num):
     for i in range(1,num+1):
         sum+=i
     return sum
-# Time taken: (C2*n)+C3
+# Time taken : (C2*n)+C3
 
 def fun3(num):
     sum=0
