@@ -7,7 +7,7 @@
 2. Ignore leading constant
 ```
 
-> ## Lower order terms
+> ## Lower order terms (The below terms are ordered from lowest to highest)
 
 - C
 - loglogn
